@@ -1,6 +1,6 @@
 {
-  "name": "robofriends2",
-  "homepage": "https://semajssor.github.io/robot_friends/",
+  "name": "robofriends_vite",
+  "homepage": "https://semajssor.github.io/robofriends_vite/",
   "private": true,
   "version": "0.0.0",
   "type": "module",
