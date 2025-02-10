@@ -17,8 +17,8 @@ To create a new Vite project with React[^1], you have to:
    5. The terminal will prompt you:
       ```
       Need to install the follwing packages:
-      create-vite@6.1.0 _(that will show the latest version of Vite)_
-      Ok to proceed? (y) _(here you have to press `y` on your keybord)_
+      create-vite@6.1.0   (that will show the latest version of Vite)
+      Ok to proceed? (y)  (here you have to press `y` on your keybord)
       ```
    6. It will now ask you to name your project:
       ```
@@ -26,21 +26,21 @@ To create a new Vite project with React[^1], you have to:
       ```
    7. Now the terminal with prompt you to select a framework:
       ```
-      Vanilla`#c9a72a` _(It means Vanilla JavaScript)_
-      vue`#2a8524`
-      React`#5b9ecf` **(I used this option)**
-      Preact`#862d8c`
-      Lit`#c75b5d`
-      Svelte`#99231f`
-      Solid`#07358a`
-      Qwik`#3c63a6`
-      Others`#8c8c8c`
+      Vanilla (It means Vanilla JavaScript)
+      vue
+      React (I used this option)
+      Preact
+      Lit
+      Svelte
+      Solid
+      Qwik
+      Others
       ```
    8. Then, they will ask you to select a variant:
       ```
       TypeScript
       TypeScript + SWC
-      JavaScript        **(I used this option)**
+      JavaScript        (I used this option)
       JavaScript + SWC
       Remix
       ```
