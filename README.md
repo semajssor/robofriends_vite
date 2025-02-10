@@ -46,7 +46,7 @@ To create a new Vite project with React[^1], you have to:
       ```
    9. It's done, now simply run:
       ```
-      $ cd `_(name of your project)_`
+      $ cd (name of your project)`
       $ npm install
       $ npm run dev
       ```
